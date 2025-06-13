@@ -1,0 +1,1 @@
+import"./RecipesSectionComponent.vue.f3693eb2.js";import{_ as i}from"./RecipesSectionComponent.vue.f3693eb2.js";import"./ButtonComponentV2.dfdc47fb.js";import"./entry.8da5b463.js";export{i as default};

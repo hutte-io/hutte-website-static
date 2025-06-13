@@ -1,0 +1,1 @@
+import{o,c as t,a as e,H as s,b as a,F as r}from"./entry.8da5b463.js";import n from"./index.14d16bd8.js";import"./NotFoundComponent.5cf13f9e.js";const _={class:"main"},c={class:"router-content"},m={__name:"error",setup(i){return(p,d)=>(o(),t("main",_,[e(s),a("div",c,[e(n)]),e(r)]))}},h=m;export{h as default};

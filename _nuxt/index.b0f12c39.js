@@ -1,0 +1,1 @@
+import o from"./LegalHeaderComponent.ed981a83.js";import t from"./LegalInfoComponent.9eaaecfb.js";import{e as n,c as r,a as e,o as a}from"./entry.8da5b463.js";import"./SubHeadingComponent.87751b93.js";import"./helpers.904313e1.js";const d=n({__name:"index",setup(m){return(p,c)=>(a(),r("template",null,[e(o),e(t)]))}});export{d as default};
